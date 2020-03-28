@@ -1,5 +1,10 @@
 # Udagram Image Filtering Microservice
 
+#Github Repo Link: https://github.com/mohankrishna225/udagram-filter-service
+
+My Github Profile: https://github.com/mohankrishna225
+
+
 EB URL: http://udacity-cloud-image-filter-development-0.us-east-1.elasticbeanstalk.com/
 
 #For Testing
